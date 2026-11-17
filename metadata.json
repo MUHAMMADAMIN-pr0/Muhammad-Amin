@@ -1,0 +1,6 @@
+{
+  "name": "Verdant Fang",
+  "description": "A botanical terrarium snake arcade game where a growing serpent hunts darting field rats and golden bonus rats across a stone arena.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
